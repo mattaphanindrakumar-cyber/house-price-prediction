@@ -25,3 +25,6 @@ This project predicts house prices using Machine Learning.
 - R² Score
 - Mean Absolute Error
 - Predicted House Price
+## Author 
+phanindhra kumar
+
